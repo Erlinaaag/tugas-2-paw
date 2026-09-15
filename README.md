@@ -3,7 +3,7 @@ Pembuatan website Studium General ITERA menggunakan HTML5 semantik. Website terd
 
 # Studium General ITERA
 
-Website sederhana bertema Studium General ITERA yang dibuat untuk memenuhi tugas Praktikum Pengembangan Aplikasi Web (PAW).
+Website sederhana bertema Studium General ITERA yang dibuat untuk memenuhi tugas 2 Pengembangan Aplikasi Web (PAW).
 
 ## Fitur
 - Halaman Beranda (index.html)
